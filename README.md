@@ -1,6 +1,6 @@
 # ChapterZero
 
-Bu depo, siber güvenlik ve penetrasyon testleri alanındaki kapsamlı rehber kitabın kaynaklarını ve eğitim materyallerini içermektedir. Kitap, siber güvenliğe girişten ileri seviye exploit geliştirme ve sosyal mühendislik tekniklerine kadar geniş bir yelpazede bilgiler sunar.
+Bu depo, [Alparslan Akyıldız](https://www.linkedin.com/in/alparslanakyildiz/) tarafından yazılmış ve Creative Commons BY-NC-ND 4.0 lisansı ile korunan, siber güvenlik ve penetrasyon testleri alanındaki kapsamlı rehber kitabın kaynaklarını ve eğitim materyallerini içermektedir. Kitap, siber güvenliğe girişten ileri seviye exploit geliştirme ve sosyal mühendislik tekniklerine kadar geniş bir yelpazede bilgiler sunar.
 
 ## İçerik
 
